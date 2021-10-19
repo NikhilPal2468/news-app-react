@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Gerry Shih",
+    "title": "India cuts internet and mobile phone service in Kashmir after separatist leader Syed Ali Shah Gilani dies - The Washington Post",
+    "description": "Syed Ali Shah Geelani, an icon of Kashmir’s separatist movement who vexed the New Delhi government for decades with his uncompromising politics, died Wednesday night.",
+    "url": "https://www.washingtonpost.com/world/2021/09/02/india-kashmir-gilani-death/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXSIWZQLZMI6ZJ6IMG5XWO7WFA.jpg&w=1440",
+    "publishedAt": "2021-09-02T14:15:00Z",
+    "content": "After word of Geelanis death spread, local police sealed his street and whisked away his body early Thursday. Authorities did not permit Geelanis body to be buried at the martyrs graveyard, but he wa… [+4701 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Michael Wayland",
+    "title": "GM to significantly cut North American vehicle production due to chip shortage - CNBC",
+    "description": "General Motors said Thursday that it's adding or extending downtimes at eight plants in the U.S., Canada and Mexico.",
+    "url": "https://www.cnbc.com/2021/09/02/gm-to-significantly-cut-north-american-vehicle-production-due-to-chip-shortage.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105403458-1534526471744rts1wohe.jpg?v=1534526585",
+    "publishedAt": "2021-09-02T13:39:12Z",
+    "content": "DETROIT General Motors is once again significantly cutting production at its North American plants due to the semiconductor chip shortage, signaling the global parts problem remains a serious issue f… [+807 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Kim Lyons",
+    "title": "WhatsApp fined $267 million for breaching EU privacy law - The Verge",
+    "description": "Ireland’s Data Protection Commission has fined Facebook-owned messaging app WhatsApp $267 million for breaching the European Union’s GDPR privacy law.",
+    "url": "https://www.theverge.com/2021/9/2/22653747/whatsapp-fine-amount-europe-gdpr-privacy",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/y1dBxtHPiilVCibNWHeWkW-FV1g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22245550/acastro_210119_1777_whatsapp_0002.jpg",
+    "publishedAt": "2021-09-02T13:22:30Z",
+    "content": "The company says it plans to appeal\r\nIllustration by Alex Castro / The Verge\r\nFacebook-owned WhatsApp has been fined 225 million ($267 million) for breaking the European Unions data privacy rules. Ir… [+1338 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Asha C. Gilbert, Ryan W. Miller",
+    "title": "Videos show historic flooding in New York after Ida blasts the Northeast - USA TODAY",
+    "description": "Videos of unprecedented flooding in New York capture the affects of Hurricane Ida as it heads northeast.",
+    "url": "https://www.usatoday.com/story/news/nation/2021/09/02/flooding-nyc-after-hurricane-ida-subway-videos/5692921001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/02/USAT/d52717d0-7398-49ad-882f-43ffeaec8437-Northeast_Ida_Flooding_12.JPG?crop=8255,4643,x1,y686&width=3200&height=1680&fit=bounds",
+    "publishedAt": "2021-09-02T13:18:45Z",
+    "content": "Flash floods hit New York City as the remnants of Hurricane Ida battered the region with rain and subway stations were flooded.\r\nStoryful\r\nNEW YORK   As Ida made its way to the northeast, unprecedent… [+2982 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Chloe Melas, CNN",
+    "title": "Britney Spears will not be charged after dispute with staff member - CNN",
+    "description": "Authorities will not be pursuing charges against Britney Spears after investigators looked into a dispute with the singer and one of her employees.",
+    "url": "https://www.cnn.com/2021/09/02/entertainment/britney-spears-no-charges-dispute/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210806172048-britney-spears-file-ss-super-tease.jpg",
+    "publishedAt": "2021-09-02T13:17:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Big Brain Academy: Brain vs. Brain – Announcement Trailer – Nintendo Switch - Nintendo",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aHFkRkFuMlQyVUnSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-09-02T13:00:32Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "Erin Banco",
+    "title": "How Covid data gaps allowed Delta to proliferate - POLITICO",
+    "description": "Eighteen months into the pandemic, Louisiana and more than 20 other states are still trying to fill key gaps in data while fighting the most aggressive version yet of the virus.",
+    "url": "https://www.politico.com/news/2021/09/02/covid-data-gaps-delta-variant-508530",
+    "urlToImage": "https://static.politico.com/56/e6/25fead8f41a4903182536914e37d/gettyimages-1333854898-1.jpg",
+    "publishedAt": "2021-09-02T12:52:47Z",
+    "content": "Eighteen months into the pandemic, Louisiana and more than 20 other states are still trying to fill key gaps in data while fighting the most aggressive version yet of the virus. With new cases contin… [+15031 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Nikolas Lanum",
+    "title": "Man that rescued Biden in Afghanistan now pleads for rescue from the Taliban: 'Do not forget me and my family' - Fox News",
+    "description": "An Afghan interpreter that helped rescue then-Sen. Joe Biden and two other senators from Afghanistan in 2008 is now pleading with the president to rescue him and his family, warning that the Taliban will likely kill him on sight.",
+    "url": "https://www.foxnews.com/media/afghanistan-man-who-rescued-biden-now-pleads-for-rescue",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Afghan-interpreter-CC.jpg",
+    "publishedAt": "2021-09-02T12:44:36Z",
+    "content": "An Afghan interpreter that helped rescue then-Sen. Joe Biden and two other senators from Afghanistan thirteen years ago is now pleading with the president to rescue him and his family, warning that t… [+1929 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jill Disis, CNN Business",
+    "title": "Apple relaxes App Store rules for services such as Spotify and Netflix - CNN",
+    "description": "Apple will allow companies such as Spotify and Netflix to direct customers to their own websites to make payments, allowing them to more easily avoid fees levied by the App Store.",
+    "url": "https://www.cnn.com/2021/09/02/tech/apple-app-store-changes-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210902003543-apple-app-store-restricted-super-tease.jpg",
+    "publishedAt": "2021-09-02T12:44:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Jon Porter",
+    "title": "JBL boosts the durability of its popular Flip Bluetooth speaker - The Verge",
+    "description": "JBL has announced an update to its popular lineup of Flip Bluetooth speakers with the Flip 6. It’s also announced a host of new headphones, including true wireless models and a noise cancelling pair aimed at children.",
+    "url": "https://www.theverge.com/2021/9/2/22653722/jbl-flip-6-bluetooth-speaker-features-specs-headphones",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/KiuzxETx_IRNDmtDQVSVIwmxGUM=/0x194:2692x1603/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22822216/JBL_Flip_6_Poolside_2670_A_BLUE_1.jpg",
+    "publishedAt": "2021-09-02T12:30:00Z",
+    "content": "Announced alongside a host of other audio gear\r\nThe JBL Flip 6.\r\nImage: JBL\r\nJBL has announced an update to its popular lineup of Flip Bluetooth speakers with the Flip 6. Perhaps the biggest change i… [+1101 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Scott Gleeson",
+    "title": "Joe Rogan tests positive for COVID, says he's taking unapproved deworming drug ivermectin - USA TODAY",
+    "description": "Podcast juggernaut Joe Rogan, who regularly downplayed the need for vaccines throughout 2021, announced Wednesday he tested positive for COVID-19.",
+    "url": "https://www.usatoday.com/story/news/nation/2021/09/02/joe-rogan-tests-positive-covid-taking-ivermectin-treatment/5693031001/",
+    "urlToImage": "https://www.gannett-cdn.com/-mm-/4923a9a9f9821ebe319713b21040c490028a1559/c=0-44-1022-621/local/-/media/2017/03/24/USATODAY/USATODAY/636259854452717320-USP-MMA-UFC-193-HUNT-VS-SILVA-77541990.JPG?width=1600&height=800&fit=crop",
+    "publishedAt": "2021-09-02T12:23:26Z",
+    "content": "Podcast host and comedian Joe Rogan revealed in an Instagram post that he has tested positive for COVID-19. His show in Nashville has been postponed until October 24.\r\nVideo Elephant\r\nPodcast juggern… [+2695 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Nicholas Johnson, Associate Professor of Emergency Medicine, UW School of Medicine, University of Washington",
+    "title": "At my hospital, over 95% of COVID-19 patients share one thing in common: They’re unvaccinated - Yahoo News",
+    "description": "Many hospitals have reached a point where the demand for health care has outstripped the ability to provide it. Westend61 via Getty ImagesThe Conversation is...",
+    "url": "https://news.yahoo.com/hospital-over-95-covid-19-122253397.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MwqjCjKsG4x_4XQvoSU8MA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://s.yimg.com/uu/api/res/1.2/wmH8ADrcb0n54vSVIrRmLQ--~B/aD05NTY7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_conversation_us_articles_815/8858f17a6f8533f0db308f5b81782017",
+    "publishedAt": "2021-09-02T12:22:53Z",
+    "content": "Many hospitals have reached a point where the demand for health care has outstripped the ability to provide it.Westend61 via Getty Images\r\nThe Conversation is running a series of dispatches from clin… [+5867 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": null,
+    "title": "German Prosecutors Charge 6 Over Spectacular Green Vault Jewelry Heist - NPR",
+    "description": "The men, German nationals aged 22 to 27, are accused of breaking into Dresden's Green Vault Museum in 2019 and stealing 21 pieces of jewelry containing more than 4,300 diamonds.",
+    "url": "https://www.npr.org/2021/09/02/1033584344/german-prosecutors-charge-6-over-spectacular-jewelry-heist",
+    "urlToImage": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+    "publishedAt": "2021-09-02T12:13:53Z",
+    "content": "BERLIN German prosecutors said Thursday that they have filed charges against six suspects in the spectacular theft of 18th-century jewels from a Dresden museum in 2019, accusing them of organized rob… [+1384 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Jason Kirk",
+    "title": "COLLEGE FOOTBALL WATCH GRID, Week 1: The five-day forecast - For The Win",
+    "description": "It’s college football season. We can pretend we only wanna watch good games, or we can face facts.",
+    "url": "https://ftw.usatoday.com/2021/09/college-football-schedule-watch-grid",
+    "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2021/09/USATSI_10256576.jpg?w=1024&h=576&crop=1",
+    "publishedAt": "2021-09-02T12:10:00Z",
+    "content": "Hello and welcome to 2021’s second edition of the College Football Watch Grid, a weekly attempt to help plan your college football viewing schedule.\r\nEach week, the Watch Grid will sort your Saturday… [+3006 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DawgNation"
+    },
+    "author": "Mike Griffith",
+    "title": "Mel Kiper Jr.: Adam Anderson tops list of NFL draft prospects in Georgia-Clemson showdown - DawgNation",
+    "description": "",
+    "url": "https://www.DawgNation.com/football/uga-clemson/georgia-football-adam-anderson-mel-kiper-jr/JGOLEEUQK5EVPATDFIUEQZPHYU/",
+    "urlToImage": "https://dawgnation.com/resizer/Pwwlz_uXPVC2qrCU2qVHShVEaoU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/SQCSQRWTGVBHLKXZ2MDR3YW6WM.jpg",
+    "publishedAt": "2021-09-02T11:32:00Z",
+    "content": "Mike Griffith, DawgNation Staff\r\n@mikegriffith32\r\nPosted 3 hours ago\r\nATHENS Mel Kiper Jr. has updated his 2022 NFL Draft Big Board, and the Georgia football team has some players moving up.\r\nAdam An… [+1834 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Dr. Catherine Schuster-Bruce",
+    "title": "COVID-19: Fully vaccinated almost twice as likely to be asymptomatic - Business Insider",
+    "description": "About 99% of more than 970,000 vaccinated people studied didn't catch COVID-19. The research used self-reported data from the Zoe symptom tracker app.",
+    "url": "https://www.businessinsider.com/fully-vaccinated-two-doses-vaccine-asymptomatic-unvaccinated-covid-zoe-study-2021-9",
+    "urlToImage": "https://i.insider.com/612f472f9ef1e50018f91700?width=1200&format=jpeg",
+    "publishedAt": "2021-09-02T10:50:39Z",
+    "content": "Fully vaccinated people that catch COVID-19 are almost twice as likely to get no symptoms than those who haven't had a vaccine, a large UK study suggests.\r\nThe study from researchers at King's Colleg… [+3321 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Faith Karimi, CNN",
+    "title": "5 things to know for September 2: Afghanistan, Ida, Texas, Elijah McClain, coronavirus - CNN",
+    "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+    "url": "https://www.cnn.com/2021/09/02/us/five-things-september-2-trnd/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210901161503-01-taliban-fighters-afghanistan-0901-super-tease.jpg",
+    "publishedAt": "2021-09-02T10:34:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Perseverance: Nasa's Mars rover makes second drill sample bid - BBC News",
+    "description": "It would be the first ever rock sample collected on another planet intended for return to Earth.",
+    "url": "https://www.bbc.com/news/science-environment-58398904",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8D46/production/_120366163_rochette.jpg",
+    "publishedAt": "2021-09-02T10:25:36Z",
+    "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nimage sourceNASA/JPL-CALTECH\r\nimage captionThe lack of a mound of powder may indicate the Rochette hole has produced a solid core\r\nThe US space a… [+2109 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/daniel-cooper",
+    "title": "Samsung has made a 200-megapixel smartphone sensor - Engadget",
+    "description": "It promises amazing clarity, detail and low-light performance..",
+    "url": "https://www.engadget.com/samsung-isocell-hp1-200-megapixel-mobile-camera-sensor-100532406.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/d4dca370-0bd2-11ec-abff-b512020bf451",
+    "publishedAt": "2021-09-02T10:06:42Z",
+    "content": "Samsung has just thrown down a gauntlet and insisted that its newest imaging sensor may be the thing that knocks Sony off its perch. The Korean giant has today announced the ISOCELL HP1, which it say… [+1421 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MassLive.com"
+    },
+    "author": "Chris Mason | cmason@masslive.com",
+    "title": "Patriots mailbag: Why is Brian Hoyer back on New England’s practice squad? - MassLive.com",
+    "description": "Answering reader questions every Thursday morning.",
+    "url": "https://www.masslive.com/patriots/2021/09/patriots-mailbag-why-is-brian-hoyer-back-on-new-englands-practice-squad.html",
+    "urlToImage": "https://www.masslive.com/resizer/SA6nAaISRByFsKOUJx6D0sDok-g=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RW3LYPAL4BC6DBYUMOJRDDYI3M.jpg",
+    "publishedAt": "2021-09-02T10:05:19Z",
+    "content": "Were running a mailbag on Thursdays during the offseason. If you have questions on the Patriots, NFL, or want gripe about past answers, email cmason@masslive.com or tweet @bychrismason. Now lets get … [+3585 chars]"
+    }
+    ]
+    }
